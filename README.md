@@ -34,7 +34,14 @@
         <td> <b>04</b></td>
         <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/04%20Линейные%20модели%20в%20машинном%20обучении.ipynb" target="_blank"><b>"Линейные модели в машинном обучении"</b></a></td>
         <td><b>Линейные модели в машинном обучении.</b> Необходимо разработать модель машинного обучения, которая поможет  управлять рисками и принимать объективное решение о покупке коров.</td>
-        <td><b>pandas, seaborn, LinearRegression, LogisticRegression, sklearn.metrics, OneHotEncoder, StandardScaler</b></td>
+        <td><b>seaborn, LinearRegression, LogisticRegression, sklearn.metrics, OneHotEncoder, StandardScaler</b></td>
         <td>Огромное количество полезных комментариев от ревьювера, помимо этого ссылки на разные статьи, пайплайны и прочее.</td>
+    </tr>
+    <tr>
+        <td> <b>05</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/05%20Обучение%20с%20учителем.ipynb" target="_blank"><b>"Обучение с учителем: качество модели"</b></a></td>
+        <td><b>Обучение с учителем.</b> Необходимо разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.</td>
+        <td><b>ColumnTransformer, SimpleImputer, KNeighborsClassifier, LogisticRegression, RandomizedSearchCV, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, SVC, DecisionTreeClassifier, shap</b></td>
+        <td>Подробный разбор метрики ROC AUC, учебник по машинному обучению.</td>
     </tr>
 </table>
