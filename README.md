@@ -44,4 +44,11 @@
         <td><b>ColumnTransformer, SimpleImputer, KNeighborsClassifier, LogisticRegression, RandomizedSearchCV, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, SVC, DecisionTreeClassifier, shap</b></td>
         <td>Подробный разбор метрики ROC AUC, учебник по машинному обучению.</td>
     </tr>
+    <tr>
+        <td> <b>06</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/06%20Сборный%20проект%202(Предсказание%20уровня%20удовлетворенности%20сотрудника%20и%20факт%20увольнения).ipynb" target="_blank"><b>"Предсказание уровня удовлетворённости сотрудника и увольнения сотрудника из компании."</b></a></td>
+        <td><b>Сборный проект 2.</b> Построить модель, которая сможет предсказать уровень удовлетворённости сотрудника на основе данных заказчика.построить модель, которая сможет на основе данных заказчика предсказать то, что сотрудник уволится из компании.</td>
+        <td><b>phik_matrix, ColumnTransformer, SimpleImputer, Pipeline, LabelEncoder, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, DecisionTreeClassifier, DecisionTreeRegressor</b></td>
+        <td>Материалы для более углубленного погружения в машинное обучение.</td>
+    </tr>
 </table>
