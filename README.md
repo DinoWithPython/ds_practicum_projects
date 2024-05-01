@@ -58,4 +58,11 @@
         <td><b>LinearRegression, mean_squared_error, StandardScaler </b></td>
         <td>Материалы по теме машинного обучения для бизнеса.</td>
     </tr>
+    <tr>
+        <td> <b>08</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/08%20Определение%20стоимости%20автомобилей.ipynb" target="_blank"><b>"Определение стоимости автомобилей."</b></a></td>
+        <td><b>Численные методы.</b> Постройте модель, которая умеет определять стоимость автомобиля по признакам.</td>
+        <td><b>LGBMRegressor, DummyRegressor, cross_val_score, ProfileReport </b></td>
+        <td>Материалы по теме оптимизации моделей.</td>
+    </tr>
 </table>
