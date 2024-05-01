@@ -51,4 +51,11 @@
         <td><b>phik_matrix, ColumnTransformer, SimpleImputer, Pipeline, LabelEncoder, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, DecisionTreeClassifier, DecisionTreeRegressor</b></td>
         <td>Материалы для более углубленного погружения в машинное обучение.</td>
     </tr>
+    <tr>
+        <td> <b>07</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/07%20Выбор%20локации%20для%20скважины.ipynb" target="_blank"><b>"Выбор локации для скважины."</b></a></td>
+        <td><b>Машинное обучение в бизнесе.</b> Нужно решить, где бурить новую скважину.</td>
+        <td><b>LinearRegression, mean_squared_error, StandardScaler </b></td>
+        <td>Материалы по теме машинного обучения для бизнеса.</td>
+    </tr>
 </table>
