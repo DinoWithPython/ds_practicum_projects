@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td> <b>01</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/01%20Исследование%20надежности%20заемщиков.ipynb" target="_blank"><b>"Исследование надёжности заёмщиков"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Надежность%20заемщиков" target="_blank"><b>"Исследование надёжности заёмщиков"</b></a></td>
         <td><b>Предобработка данных.</b> На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.</td>
         <td><b>Предобработка данных, python, pandas</b></td>
         <td>qcut, настройка юпитера, PEP8, plotly, SQL тренажер и задачки, Главред</td>
