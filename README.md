@@ -40,7 +40,7 @@
     <tr>
         <td> <b>05</b></td>
         <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/05%20Обучение%20с%20учителем.ipynb" target="_blank"><b>"Обучение с учителем: качество модели"</b></a></td>
-        <td><b>Обучение с учителем.</b> Необходимо разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.</td>
+        <td><b>Прогноз оттока клиентов магазина.</b> Необходимо разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.</td>
         <td><b>ColumnTransformer, SimpleImputer, KNeighborsClassifier, LogisticRegression, RandomizedSearchCV, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, SVC, DecisionTreeClassifier, shap</b></td>
         <td>Подробный разбор метрики ROC AUC, учебник по машинному обучению.</td>
     </tr>
