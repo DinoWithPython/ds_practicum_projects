@@ -9,7 +9,7 @@
         <td><b>Темы инф. материалов и рекомендации ревьювера</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Рекомендации%20к%20покупке%20коров/04%20Линейные%20модели%20в%20машинном%20обучении.ipynb" target="_blank"><b>"Линейные модели в машинном обучении"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Отток%20клиентов%20магазина%20%22В%20один%20клик%22/05%20Обучение%20с%20учителем.ipynb" target="_blank"><b>"Обучение с учителем: качество модели"</b></a></td>
         <td><b>Прогноз оттока клиентов магазина.</b> Разработать решение, которое позволит персонализировать предложения постоянным клиентам, чтобы увеличить их покупательскую активность.</td>
         <td><b>ColumnTransformer, SimpleImputer, KNeighborsClassifier, LogisticRegression, RandomizedSearchCV, MinMaxScaler, OneHotEncoder, OrdinalEncoder, StandardScaler, SVC, DecisionTreeClassifier, shap</b></td>
         <td>Подробный разбор метрики ROC AUC, учебник по машинному обучению.</td>
