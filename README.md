@@ -72,4 +72,11 @@
         <td><b>LGBMRegressor, seasonal_decompose, TimeSeriesSplit </b></td>
         <td>Ссылки на лекции по временным рядам, чтобы лучше разобраться в теме.</td>
     </tr>
+    <tr>
+        <td> <b>10</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Прогнозирование%20заказов%20такси" target="_blank"><b>"Проект для «Викишоп»."</b></a></td>
+        <td><b>Машинное обучение для текстов.</b> Определение токсичности комментариев.</td>
+        <td><b>CatBoostClassifier, WordNetLemmatizer, TfidfVectorizer, nltk</b></td>
+        <td>Ссылки на материалы по модели BERT, рекомендации какие леммантизаторы использовать, POS-теги.</td>
+    </tr>
 </table>
