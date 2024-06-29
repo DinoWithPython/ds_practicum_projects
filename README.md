@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td> <b>08</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/08%20Определение%20стоимости%20автомобилей.ipynb" target="_blank"><b>"Разработка системы рекомендации стоимости автомобиля на основе его описания."</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Определение%20стоимости%20автомобилей" target="_blank"><b>"Разработка системы рекомендации стоимости автомобиля на основе его описания."</b></a></td>
         <td><b>Численные методы.</b> Постройте модель, которая умеет определять стоимость автомобиля по признакам.</td>
         <td><b>LGBMRegressor, DummyRegressor, cross_val_score, ProfileReport </b></td>
         <td>Материалы по теме оптимизации моделей.</td>
