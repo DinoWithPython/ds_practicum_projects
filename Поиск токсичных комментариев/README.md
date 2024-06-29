@@ -9,7 +9,7 @@
         <td><b>Темы инф. материалов и рекомендации ревьювера</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Удовлетворенность%20сотрудников/06%20Сборный%20проект%202(Предсказание%20уровня%20удовлетворенности%20сотрудника%20и%20факт%20увольнения).ipynb" target="_blank"><b>"Определение токсичности комментариев."</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Поиск%20токсичных%20комментариев/10%20Поиск%20токсичных%20комментариев.ipynb" target="_blank"><b>"Определение токсичности комментариев."</b></a></td>
         <td><b>Машинное обучение для текстов.</b> Определение токсичности комментариев.</td>
         <td><b>CatBoostClassifier, WordNetLemmatizer, TfidfVectorizer, nltk</b></td>
         <td>Ссылки на материалы по модели BERT, рекомендации какие леммантизаторы использовать, POS-теги.</td>
