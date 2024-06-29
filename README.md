@@ -53,7 +53,7 @@
     </tr>
     <tr>
         <td> <b>07</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/07%20Выбор%20локации%20для%20скважины.ipynb" target="_blank"><b>"Выбор локации для скважины."</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Выбор%20локации%20для%20скважины" target="_blank"><b>"Выбор локации для скважины."</b></a></td>
         <td><b>Машинное обучение в бизнесе.</b> Нужно решить, где бурить новую скважину.</td>
         <td><b>LinearRegression, mean_squared_error, StandardScaler </b></td>
         <td>Материалы по теме машинного обучения для бизнеса.</td>
