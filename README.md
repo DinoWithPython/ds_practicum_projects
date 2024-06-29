@@ -67,7 +67,7 @@
     </tr>
     <tr>
         <td> <b>09</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/09%20Прогнозирование%20заказов%20такси.ipynb" target="_blank"><b>"Прогнозирование заказов такси."</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Прогнозирование%20заказов%20такси" target="_blank"><b>"Прогнозирование заказов такси."</b></a></td>
         <td><b>Временные ряды.</b> Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</td>
         <td><b>LGBMRegressor, seasonal_decompose, TimeSeriesSplit </b></td>
         <td>Ссылки на лекции по временным рядам, чтобы лучше разобраться в теме.</td>
