@@ -79,4 +79,11 @@
         <td><b>CatBoostClassifier, WordNetLemmatizer, TfidfVectorizer, nltk</b></td>
         <td>Ссылки на материалы по модели BERT, рекомендации какие леммантизаторы использовать, POS-теги.</td>
     </tr>
+    <tr>
+        <td> <b>11</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Поиск%20токсичных%20комментариев" target="_blank"><b>"Определение возраста покупателей по фотографии"</b></a></td>
+        <td><b>Компьютерное зрение.</b> Определение возраста покупателей по фотографии.</td>
+        <td><b>ResNet50, Dense, AvgPool2D, GlobalAveragePooling2D, Sequential, Adam</b></td>
+        <td>Ссылки на материалы по нейронкам, кбесплатные курсы, материалы по Keras</td>
+    </tr>
 </table>
