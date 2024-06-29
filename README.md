@@ -86,4 +86,11 @@
         <td><b>ResNet50, Dense, AvgPool2D, GlobalAveragePooling2D, Sequential, Adam</b></td>
         <td>Ссылки на материалы по нейронкам, кбесплатные курсы, материалы по Keras</td>
     </tr>
+    <tr>
+        <td> <b>12</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Определение%20возраста%20покупателей" target="_blank"><b>"Прогноз оттока клиентов оператора связи"</b></a></td>
+        <td><b>Выпускной проект.</b>Прогноз оттока клиентов оператора связи.</td>
+        <td><b>CatBoostClassifier, phik, DecisionTreeClassifier, roc_curve, make_column_transformer</b></td>
+        <td>Регулярки, Skimpy.</td>
+    </tr>
 </table>
