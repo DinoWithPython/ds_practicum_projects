@@ -9,7 +9,7 @@
         <td><b>Темы инф. материалов и рекомендации ревьювера</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Поиск%20токсичных%20комментариев/10%20Поиск%20токсичных%20комментариев.ipynb" target="_blank"><b>"Определение возраста покупателей."</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Определение%20возраста%20покупателей/11%20Определение%20возраста%20покупателей.ipynb" target="_blank"><b>"Определение возраста покупателей."</b></a></td>
         <td><b>Компьютерное зрение.</b> Определение возраста покупателей.</td>
         <td><b>ResNet50, Dense, AvgPool2D, GlobalAveragePooling2D, Sequential, Adam</b></td>
         <td>Ссылки на материалы по нейронкам, кбесплатные курсы, материалы по Keras</td>

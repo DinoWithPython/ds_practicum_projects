@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td> <b>11</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Поиск%20токсичных%20комментариев" target="_blank"><b>"Определение возраста покупателей по фотографии"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Определение%20возраста%20покупателей" target="_blank"><b>"Определение возраста покупателей по фотографии"</b></a></td>
         <td><b>Компьютерное зрение.</b> Определение возраста покупателей по фотографии.</td>
         <td><b>ResNet50, Dense, AvgPool2D, GlobalAveragePooling2D, Sequential, Adam</b></td>
         <td>Ссылки на материалы по нейронкам, кбесплатные курсы, материалы по Keras</td>
