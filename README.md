@@ -95,7 +95,7 @@
     </tr>
     <tr>
         <td> <b>13</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Прогноз%20оттока%20клиентов%20оператора%20связи" target="_blank"><b>"Статистический анализ для компании аренды самокатов GoFast"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Статистический%20анализ%20для%20компании%20аренды%20самокатов%20GoFast" target="_blank"><b>"Статистический анализ для компании аренды самокатов GoFast"</b></a></td>
         <td><b>Статистический анализ</b>Статистический анализ для компании аренды самокатов GoFast.</td>
         <td><b>stats, binom, ttest_ind, ttest_1samp, pivot_table</b></td>
         <td>Книги по распределениям, хедбук по статистике, множество статей</td>
