@@ -9,7 +9,7 @@
         <td><b>Темы инф. материалов и рекомендации ревьювера</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Статистический%20анализ%20для%20компании%20аренды%20самокатов%20GoFast/84841f63-9b12-4702-9bd2-2c4247cb8682.ipynb" target="_blank"><b>"Статистический анализ для компании аренды самокатов GoFast"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Статистический%20анализ%20для%20компании%20аренды%20самокатов%20GoFast/Статистический%20анализ%20для%20компании%20аренды%20самокатов%20GoFast.ipynb" target="_blank"><b>"Статистический анализ для компании аренды самокатов GoFast"</b></a></td>
         <td><b>Статистический анализ</b>Статистический анализ для компании аренды самокатов GoFast.</td>
         <td><b>stats, binom, ttest_ind, ttest_1samp, pivot_table</b></td>
         <td>Книги по распределениям, хедбук по статистике, множество статей</td>
