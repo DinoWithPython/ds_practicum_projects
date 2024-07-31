@@ -93,4 +93,11 @@
         <td><b>CatBoostClassifier, phik, DecisionTreeClassifier, roc_curve, make_column_transformer</b></td>
         <td>Регулярки, Skimpy.</td>
     </tr>
+    <tr>
+        <td> <b>13</b></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Прогноз%20оттока%20клиентов%20оператора%20связи" target="_blank"><b>"Статистический анализ для компании аренды самокатов GoFast"</b></a></td>
+        <td><b>Статистический анализ</b>Статистический анализ для компании аренды самокатов GoFast.</td>
+        <td><b>stats, binom, ttest_ind, ttest_1samp, pivot_table</b></td>
+        <td>Книги по распределениям, хедбук по статистике, множество статей</td>
+    </tr>
 </table>
