@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td> <b>01</b></td>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/Надежность%20заемщиков" target="_blank"><b>"Проекты за время обучения в яндексе"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/tree/main/learning_projects" target="_blank"><b>"Проекты за время обучения в яндексе"</b></a></td>
         <td>От предобработки до CV и NLP. Учебные проекты, выполненные за время обучения. Содержат ссылки на доп.материалы.</td>
         <td><b>Keras, Scikit-learn, pandas, matplotlib, BERT и т.п.</b></td>
         <td>CV, NLP, визуализация даных, математическая статистика, временные ряды и т.п.</td>

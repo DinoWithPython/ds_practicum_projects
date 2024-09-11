@@ -9,7 +9,7 @@
         <td><b>Темы инф. материалов и рекомендации ревьювера</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/Прогноз%20оттока%20клиентов%20оператора%20связи/12%20Прогноз%20оттока%20клиентов%20оператора%20связи.ipynb" target="_blank"><b>"Прогноз оттока клиентов оператора связи"</b></a></td>
+        <td><a href="https://github.com/DinoWithPython/ds_practicum_projects/blob/main/learning_projects/Прогноз%20оттока%20клиентов%20оператора%20связи/12%20Прогноз%20оттока%20клиентов%20оператора%20связи.ipynb" target="_blank"><b>"Прогноз оттока клиентов оператора связи"</b></a></td>
         <td><b>Выпускной проект.</b>Прогноз оттока клиентов оператора связи.</td>
         <td><b>CatBoostClassifier, phik, DecisionTreeClassifier, roc_curve</b></td>
         <td>Обучающих материалов нет, поскольку это дипломный проект.</td>
